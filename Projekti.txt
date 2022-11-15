@@ -1,0 +1,33 @@
+Svet edukacije
+
+Za backend korišćen C#, za frontend javascript. Projket predstavlja mogucnost spajanja učenika i profesora.Učenici i profesori kreiraju nalog
+Nakon što kreiraju tj registruju se mogu da se loguju svaki sledeći put.
+Predavač može da dodaje predmete za koje nudi časove
+Učenik  može da pošalje zahtev za čas predavaču, predavač može da prihvati ili odbije zahtev.
+Takodje može da vidi svoj raspored na kalendaru, izmeni svoj profil tj svoje osnovne podatke
+Moguće je pretražiti predmete, oceniti predavače
+
+CosmosDB projekat
+
+Online prodavnica muzičkih instrumenata. Gde korisnik ima mogućnost da pregleda proizvode, oceni, komentarise, doda željeni proizvod
+u korpu, isprazni korpu, pretraži proizvode po različitim kriterijumima.
+Admin ima mogucnost izvršavanja osnovnih crud operacija nad proizvodima i korisnicima
+Projekat je MVC projekat gde se koristio html, C# i CosmosDB baza podataka
+
+Neo4j
+
+Projekat je MVC, c#,html i Neo4j baza podataka. Moguće je dodati plesnu školu, obrisati i oceniti plesnu školu
+-Dodati ples plesnoj školi, izbrisati, izmeniti ples, pretražiti
+-Dodati instruktora, izmeniti,izbrisati
+-Dodati korisnika, izbrisati,izmeniti
+-Oceniti plesnu školu, prikazati najbolje ocenjene škole
+-Prikaz svih instruktora, skola, plesa, korisnika
+
+Cassandra
+
+Projekat je MVC, c#,html,css,Cassandra baza
+U projektu je mogućće prikazati koncerte, bendove,izvodjace. Izmeniti i obrisati svaku od navedenih stavki
+Moguće je prikazati numere izvdjaca, dodavanje
+MOguće je pregledati zakazane koncerte i koji su učesnici, takodje brisanje i izmena 
+Pretraga koncerta po tipu
+
